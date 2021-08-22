@@ -5,4 +5,3 @@ Knowing the entropy of a file can be useful in figuring out how much the file wo
 
 This is also part of the series of programs written on my tractor in the summer of 2021, so it's no big deal, but I felt like saving it anyway.
 
-Translated with www.DeepL.com/Translator (free version)
